@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rosa</string>
+    <string name="forget_passaword"><u>Forget Passaword?</u></string>
+    <string name="create_new"><u>Create new</u></string>
+</resources>
